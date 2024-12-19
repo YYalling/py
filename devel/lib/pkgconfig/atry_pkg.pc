@@ -1,0 +1,8 @@
+prefix=/home/nzzn/yall_file/py/devel
+
+Name: atry_pkg
+Description: Description of atry_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

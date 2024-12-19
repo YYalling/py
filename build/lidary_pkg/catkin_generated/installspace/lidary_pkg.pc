@@ -1,0 +1,8 @@
+prefix=/home/nzzn/yall_file/py/install
+
+Name: lidary_pkg
+Description: Description of lidary_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

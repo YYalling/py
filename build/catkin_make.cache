@@ -1,0 +1,2 @@
+atry_pkg:imuy_pkg:lidary_pkg:mapy_pkg:qqy_msgs:ssry_pkg
+-DCATKIN_DEVEL_PREFIX=/home/nzzn/yall_file/py/devel -DCMAKE_INSTALL_PREFIX=/home/nzzn/yall_file/py/install -G Unix Makefiles
